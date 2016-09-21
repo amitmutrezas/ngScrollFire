@@ -1,0 +1,11 @@
+{
+  "name": "ngScrollFire",
+  "description": "A directive which adds scroll event to an element and adds callback upon reaching end of the element",
+  "version": "0.0.1",
+  "main": "build/ng-scroll-fire.min.js",
+  "homepage": "https://github.com/amitmutrezas/ngScrollFire",
+  "devDependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x"
+  }
+}
